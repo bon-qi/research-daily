@@ -1,19 +1,13 @@
-# Paper-daily
-<!-- ## Aim : recording footprint and introducing new ideas.
-1. `Project`: paper rich in pipeline or combine somethig previously.
-2. `Paper`: Methodology worth thinking twice.
-3. `playground`: Packages / Libraries worth learning from. -->
-<!-- Claim: Will read a paper carefully in 1~3 days. -->
+# Paper-Project-Weekly
+
 > Be the friend of time
-<!-- > The people who believe in miracle are those as great as miracle. -->
 ---
 [TOC]
 
 ---
 ### 12.26 2022
 **Projects** :
-<!-- - (2112.09127, avatar) [ICON](https://github.com/YuliangXiu/ICON): Tutorialiable project for playing around with neural avatars. -->
-
+- (2112.09127, avatar) [ICON](https://github.com/YuliangXiu/ICON): Tutorialiable project for playing around with neural avatars.
 - (2211.13226, edit nerf) [ClimateNeRF](https://climatenerf.github.io/): 
 1. **pipeline**: [pre-trained NGP model] --> traditional physics based rendering + style-transfer --> [snow, flood, smog simulated sence].
 
@@ -30,13 +24,13 @@ class CreateCircle(Scene):
         circle.set_fill(PINK, opacity=0.5)
         self.play(Create(circle))
 ```
+
 - [rich](https://rich.readthedocs.io/en/stable/introduction.html): rich text output.  `%load_ext ric` for `Ipython`
 ```python
 from rich.panel import Panel
 Panel.fit("[bold yellow]Hi, I'm a Panel", border_style="red")
 ```
-<!-- -  See your fancy `python` terminal output with [rich](https://github.com/Textualize/rich)!
-- My pleasure to help the community for translation in docs one day... -->
+
 ---
 ### 12.27 2022
 - (2212.05231, NGP+NeuS)[NeuS2](https://vcai.mpi-inf.mpg.de/projects/NeuS2/):
