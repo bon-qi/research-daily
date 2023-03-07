@@ -1,0 +1,16 @@
+{
+  "name": "poor-philosophy-warm-s9x8v",
+  "productName": "poor-philosophy-warm-s9x8v",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "qi",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "20.1.4"
+  }
+}
