@@ -5,14 +5,12 @@
 ---
 [TOC]
 
+---
+## 12/26/2022 ~ 14/2/2023 (refined during 7/3/2023 ~)
 
 ---
-## 12/26/2022 ~ 14/2/2023
-
----
-**Projects** :
 - (2112.09127, avatar) [ICON](https://github.com/YuliangXiu/ICON): Tutorialiable project for playing around with neural avatars.
-- (2211.13226, edit nerf) [ClimateNeRF](https://climatenerf.github.io/): 
+- (2211.13226, editable nerf) [ClimateNeRF](https://climatenerf.github.io/): 
 1. **pipeline**: [pre-trained NGP model] --> traditional physics based rendering + style-transfer --> [snow, flood, smog simulated sence].
 
 ---
@@ -28,14 +26,13 @@
 
 ---
 - (2211.05783, SfM, flow)[UniMatch](https://arxiv.org/abs/2211.05783): 
-1. **Idea**: A unified framework for optical flow, stereo match and depth estimation with transformers.
+1. **tl;dr**: A unified framework for optical flow, stereo match and depth estimation with transformers.
 2. **Pipeline**: transformer, accross-attention.
 
 ---
 Driver's license, new year holiday.
 
 --- 
-
 - **(2112.07945, head NeRF)[EG3D](https://github.com/NVlabs/eg3d)**: 
 1. **Implementation**: remarkable [dnnlib.utils.construct_class_by_name](https://github.com/NVlabs/eg3d/blob/main/eg3d/dnnlib/util.py), `module = importlib.module('[MODULE_PATH]')` and `obj = attr(module,"[ATTR_NAME]")`. [click](https://click.palletsprojects.com/en/8.1.x/) for better `argparse` to a function.[eg3d.eg3d.viz](https://github.com/NVlabs/eg3d/tree/main/eg3d/viz) for `imgui` based interface with 3d-data, refer [eg3d.eg3d.visualizer.Visualizer](https://github.com/NVlabs/eg3d/blob/main/eg3d/visualizer.py) for how to rewrite. 
 2. **Idea**: `triplane`: a balance between `octree` and `positonal emebdding`, standard improving of images: super-resolution, pyramid to discrimator. [TO BE CAREFULLY]: supplemental details.
@@ -60,3 +57,7 @@ Driver's license, new year holiday.
 Keywords: contralable NeRF
 - (2301.10241, representation of 3d geometry)[k-planes](https://arxiv.org/pdf/2301.10241.pdf): a high-level of representation.
 - (2112.05139, text-guided NeRF)[CLIPNeRF](https://arxiv.org/pdf/2112.05139.pdf): conditional model, NeRF lantent space.
+
+---
+TODO:
+> Transformer (attention is all you need)
