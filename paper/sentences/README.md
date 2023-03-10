@@ -18,3 +18,14 @@
 ### Experiements (how, sentence, structure)
 
 ### Summary
+
+
+## Impressions of Vacubulary
+
+transformer:
+
+generative models:
+
+neural radiance fields:
+
+

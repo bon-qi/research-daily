@@ -59,5 +59,10 @@ Keywords: contralable NeRF
 - (2112.05139, text-guided NeRF)[CLIPNeRF](https://arxiv.org/pdf/2112.05139.pdf): conditional model, NeRF lantent space.
 
 ---
+
 TODO:
 > Transformer (attention is all you need)
+
+
+---
+
