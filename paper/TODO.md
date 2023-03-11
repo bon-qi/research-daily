@@ -1,8 +1,16 @@
-# Papers needed to pick & dig-deep
-
+# Papers to pick & dig-deep
 
 ---
 
+
+```
+Generative Models.
+Neural Implicits.
+Geometric Processing.
+Computer vision, Machine Learning.
+Robotics, Reinforencement Learning, AI for Science.
+NLP.
+```
 
 ## Generative Models
 
@@ -40,6 +48,20 @@
 - [ ] [DiffusionDet: Diffusion Model for Object Detection](https://github.com/ShoufaChen/DiffusionDet)
 
 
+---
+
+## Geometric Representation (geometric processing)
+- [ ] [Shape As Points](https://pengsongyou.github.io/sap) by Songyou Peng, 2021.
+- [ ] []()
+
+
+---
+
+## Robotics, Reinforencement Learning, AI for Science
+
+> Tags: 
+
+- [ ] [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, Columbia Robotics](https://github.com/columbia-ai-robotics/diffusion_policy) 
 
 ---
 
@@ -52,18 +74,6 @@
 
 
 ---
-
-
-## Geometric Representation (geometric processing)
-- [ ] [Shape As Points](https://pengsongyou.github.io/sap) by Songyou Peng, 2021.
-- [ ] []()
-
-
----
-
-
----
-
 ---
 
 
