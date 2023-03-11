@@ -59,7 +59,7 @@ NLP.
 
 ## Robotics, Reinforencement Learning, AI for Science
 
-> Tags: 
+> Tags:  
 
 - [ ] [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, Columbia Robotics](https://github.com/columbia-ai-robotics/diffusion_policy) 
 

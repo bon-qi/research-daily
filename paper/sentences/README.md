@@ -1,6 +1,10 @@
 # Good sentences from text, writting review.
 => Good luck!
 
+---
+
+## Paper writing
+
 ### Abstract(structure)
 - We introduce [NAME], [FURTHER INTRODUCTION], which [HIGHTLIGHTS]. Compare with [SoTA]. Code and video are avaliable at [WEBSITE].
 
@@ -20,12 +24,15 @@
 ### Summary
 
 
+----
+
 ## Impressions of Vacubulary
 
-transformer:
+transformer: attention, token, encoder-decoder.
 
 generative models:
 
 neural radiance fields:
 
+large language models (LLM): engeerning-trick, 
 
