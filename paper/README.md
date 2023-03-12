@@ -66,3 +66,18 @@ TODO:
 
 ---
 
+11/3/2023 ~
+
+---
+
+**Scaling up GANs for Text-to-Image Synthesis**
+*Minguk Kang1,3, Jun-Yan Zhu2, Richard Zhang3, Jaesik Park1, Eli Shechtman3, Sylvain Paris3, Taesung Park3*
+
+tl;dr: new structure of GAN for text2img, img2img tasks on big dataset act faster than diffusion models. 
+
+pipeline:
+
+experiments:
+
+summary:
+
