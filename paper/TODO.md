@@ -22,6 +22,7 @@ NLP.
 - [ ] (2d, diffusion+transformers)[Scalable Diffusion Models with Transformers, Meta, 2023](https://www.wpeebles.com/DiT)
 - [ ] (2d) [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations, CMU, 2021](https://arxiv.org/abs/2108.01073)
 - [ ] (speech2video) [Generating Holistic 3D Human Motion from Speech, MPI-TUE, CVPR2023](https://talkshow.is.tue.mpg.de)
+- [ ] (2d, gan) [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/)
 
 
 ---
