@@ -23,6 +23,8 @@ NLP.
 - [ ] (2d) [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations, CMU, 2021](https://arxiv.org/abs/2108.01073)
 - [ ] (speech2video) [Generating Holistic 3D Human Motion from Speech, MPI-TUE, CVPR2023](https://talkshow.is.tue.mpg.de)
 - [ ] (2d, gan) [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/)
+- [ ] (3d-nerf, text2nerf) [DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION, google, ICLR2023](https://arxiv.org/pdf/2209.14988.pdf)
+- [ ] (2d-diffusion) [High-Resolution Image Synthesis with Latent Diffusion Models, 2022](https://arxiv.org/pdf/2112.10752.pdf)
 
 
 ---
@@ -48,6 +50,7 @@ NLP.
 
 - [ ] [Fully Differentiable RANSAC](https://arxiv.org/pdf/2212.13185.pdf)
 - [ ] [DiffusionDet: Diffusion Model for Object Detection](https://github.com/ShoufaChen/DiffusionDet)
+- [ ] [All are Worth Words: A ViT Backbone for Diffusion Models](https://arxiv.org/pdf/2209.12152.pdf)
 
 
 ---
@@ -95,3 +98,5 @@ NLP.
 - [ ] [PREF: exploring Fourier Encoding in the wild (nerf et al)](https://github.com/hbb1/PREF)
 - [ ] [A C++ toy library for SfM pipelines](https://github.com/royshil/SfM-Toy-Library)
 - [ ] [A library for Reinforencement Learning (中文的强化游戏学习模型)](https://github.com/opendilab/DI-engine)
+- [ ] [LAION: a huge image-text dataset 60xTB](https://laion.ai)
+- [ ] [VQVAE: understanding VQVAE and DALL·E](https://ml.berkeley.edu/blog/posts/vq-vae/)
